@@ -1,7 +1,3 @@
-runs*/*
-!runs_clf/train_20220830_072958
-!runs_reg/train_20220830_075124
-
 # Editors
 .vscode/
 .idea/
